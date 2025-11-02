@@ -27,13 +27,6 @@ I’m selectively using problems from **Striver’s A2Z DSA Sheet** as a guide, 
 
 ---
 
-## 📂 Repository Structure
-```
-DSA_for_Data_Engineering/ │ ├── Step 01 - Basics/ ├── Step 02 - Sorting Techniques/ ├── Step 03 - Arrays/ ├── Step 04 - Binary Search/ ├── Step 05 - Strings/ ├── Step 07 - Recursion/ ├── Step 10 - Sliding Window/ ├── Step 12 - Greedy Algorithm/ └── try_yourself.py   # scratchpad for quick testing
-```
-
----
-
 ## 📚 Resources & Inspiration
 - [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)  
 - [Take U Forward - YouTube Channel](https://www.youtube.com/@takeUforward)  
