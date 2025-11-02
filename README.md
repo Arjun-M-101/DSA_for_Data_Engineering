@@ -44,8 +44,3 @@ DSA_for_Data_Engineering/ │ ├── Step 01 - Basics/ ├── Step 02 - So
 ## 🧑‍💻 About Me
 I’m Arjun — a data-focused IT professional pivoting into **Data Engineering**.  
 This repo is part of my journey to master **DSA + real-world engineering skills** and crack Data Engineering interviews with confidence.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
