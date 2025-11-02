@@ -20,10 +20,10 @@ I’m selectively using problems from **Striver’s A2Z DSA Sheet** as a guide, 
 ---
 
 ## 🎯 Goals
-- Strengthen **core DSA concepts** relevant for Data Engineering interviews  
-- Practice **brute force → optimize → explain** approach  
-- Build confidence in **explaining solutions step by step**  
-- Map DSA patterns to **real-world Data Engineering problems** (e.g., prefix sums → ETL aggregations, sliding window → stream processing)
+- Strengthen core DSA concepts for Data Engineering interviews  
+- Practice problems from brute force → optimal → clear explanation  
+- Improve step‑by‑step problem solving
+- Connect DSA patterns to real Data Engineering use cases
 
 ---
 
