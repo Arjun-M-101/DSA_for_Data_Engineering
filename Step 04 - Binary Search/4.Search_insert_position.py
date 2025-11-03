@@ -1,5 +1,6 @@
+# Uses lower bound logic
 class Solution:
-    def lower_bound(self, arr:list, x:int)->int:
+    def search_insert_position(self, arr:list, x:int)->int:
         N = len(arr)
         low=0
         high=N-1
@@ -14,8 +15,8 @@ class Solution:
         return ans
 if __name__ == '__main__':
     result=Solution()
-    arr=[1,2,3,3,5,8,8,10,10,11]
+    arr=[1,2,4,7]
     x=6
-    print(result.lower_bound(arr,x))
+    print(result.search_insert_position(arr,x))
 # Time Complexity - O(logN)
 # Space Complexity - O(1)

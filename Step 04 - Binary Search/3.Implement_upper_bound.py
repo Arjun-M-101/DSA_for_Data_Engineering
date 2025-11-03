@@ -1,4 +1,3 @@
-# Iterative
 class Solution:
     def upper_bound(self, arr:list, x:int)->int:
         N = len(arr)
