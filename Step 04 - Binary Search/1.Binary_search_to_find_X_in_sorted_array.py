@@ -1,5 +1,6 @@
-# Iterative
+
 class Solution:
+    # Iterative
     def binary_search1(self, arr1:list, target1:int)->int:
         N = len(arr1)
         low=0
@@ -13,6 +14,7 @@ class Solution:
             else:
                 high=mid-1
         return -1
+    # Recursive
     def binary_search2(self, arr2:list, low2:int, high2:int, target2:int)->int:
         if low2>high2:
             return -1
