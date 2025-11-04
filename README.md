@@ -12,7 +12,7 @@ I’m selectively using problems from **Striver’s A2Z DSA Sheet** as a guide, 
 ✅ Step 04 – Binary Search  
 ✅ Step 05 – Strings  
 ✅ Step 07 – Recursion  
-✅ Step 10 – Sliding Window & Two Pointer
+✅ Step 10 – Sliding Window & Two Pointer  
 ✅ Step 12 – Greedy Algorithm  
 
 🔄 Currently finished till **Arrays**, continuing step by step.
