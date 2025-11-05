@@ -60,3 +60,5 @@ if __name__ == "__main__":
     s = "aaabbccd"
     k = 2
     print(sol2.lengthOfLongestSubstringKDistinct(s, k))
+# Time Complexity - O(N)
+# Space Complexity - O(k)
